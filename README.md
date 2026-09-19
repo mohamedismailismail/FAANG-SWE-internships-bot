@@ -1,4 +1,4 @@
-# 🚀 FAANG SWE Internship Autonomous Alert Pipeline
+# FAANG SWE Internship Autonomous Alert Pipeline
 
 An autonomous, cloud-native scraping and alert engine designed to track Software Engineering (SWE) internship postings across FAANG and top-tier tech companies, broadcasting real-time updates directly to a Telegram channel.
 
@@ -10,7 +10,7 @@ An autonomous, cloud-native scraping and alert engine designed to track Software
 
 ---
 
-## 📌 System Architecture
+## System Architecture
 
 ```text
 [Scheduled Trigger (Cron: 0 * * * *)]
