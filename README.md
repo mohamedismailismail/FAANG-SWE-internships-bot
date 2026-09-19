@@ -4,7 +4,11 @@ An autonomous, cloud-native scraping and alert engine designed to track Software
 
 <img width="1416" height="939" alt="Screenshot 2026-09-19 041146" src="https://github.com/user-attachments/assets/fca05b9b-ca5d-4f11-a87a-ed1020ea5db8" />
 
-Telegram bot link : https://t.me/faangswe
+
+
+
+
+Join telegram channel🔥 : https://t.me/faangswe
 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
