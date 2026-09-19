@@ -2,6 +2,11 @@
 
 An autonomous, cloud-native scraping and alert engine designed to track Software Engineering (SWE) internship postings across FAANG and top-tier tech companies, broadcasting real-time updates directly to a Telegram channel.
 
+<img width="1416" height="939" alt="Screenshot 2026-09-19 041146" src="https://github.com/user-attachments/assets/fca05b9b-ca5d-4f11-a87a-ed1020ea5db8" />
+
+Telegram bot link : https://t.me/faangswe
+
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions)
 ![SQLite](https://img.shields.io/badge/SQLite-Data%20Persistence-003B57?logo=sqlite)
