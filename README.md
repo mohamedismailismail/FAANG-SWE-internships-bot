@@ -1,4 +1,4 @@
-# FAANG SWE Internships
+# FAANG SWE Internships🔝
 
 An autonomous, cloud-native scraping and alert engine designed to track Software Engineering (SWE) internship postings across FAANG and top-tier tech companies, broadcasting real-time updates directly to a Telegram channel.
 
